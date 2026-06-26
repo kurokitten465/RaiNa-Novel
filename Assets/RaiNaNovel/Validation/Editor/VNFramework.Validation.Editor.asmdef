@@ -1,0 +1,20 @@
+{
+    "name": "VNFramework.Validation.Editor",
+    "rootNamespace": "VNFramework.Validation.Editor",
+    "references": [
+        "GUID:f412e8f5299a0144d86d44f8a549d608",
+        "GUID:ccd812ca8478c234eab0786af2c7a992",
+        "GUID:74b68abb1e62a024aa3107fe934555cf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f9b8aa70ae49b408f92c846d03fa36, type: 3}
+  m_Name: CMD_PlayBGM
+  m_EditorClassIdentifier: VNFramework.Runtime::VNFramework.Runtime.Commands.PlayBGMCommand
+  commandLabel: adad
+  trackIndex: 0
+  startTime: 0
+  duration: 1
+  bgmClip: {fileID: 8300000, guid: 117c5f78244c7774d83e88f05d6d0aa9, type: 3}
+  volume: 1
+  loop: 1

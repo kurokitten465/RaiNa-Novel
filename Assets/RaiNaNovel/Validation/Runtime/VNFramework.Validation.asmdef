@@ -1,0 +1,16 @@
+{
+    "name": "VNFramework.Validation",
+    "rootNamespace": "VNFramework.Validation",
+    "references": [
+        "GUID:f412e8f5299a0144d86d44f8a549d608"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
