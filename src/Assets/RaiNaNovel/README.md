@@ -10,8 +10,6 @@
 
 ## What is RaiNa Novel?
 
-![Showcase](imgs/img_showcase_panel.png)
-
 Most visual novel frameworks think in sequences.
 
 ```

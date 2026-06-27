@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="VNFramework.Runtime.csproj" />
+  <Project Path="VNFramework.Validation.csproj" />
+  <Project Path="VNFramework.Editor.csproj" />
+  <Project Path="VNFramework.Validation.Editor.csproj" />
+</Solution>

@@ -1,0 +1,18 @@
+{
+    "name": "com.rainainteractive.rainanovel",
+    "description": "Yet another Visual Novel framework for Unity, but this time it's timeline-based.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "dependencies": { },
+    "keywords": [
+        "unity",
+        "visual novel",
+        "utility",
+        "framework"
+    ],
+    "author": {
+        "name": "Kuro_kitten",
+        "email": "kuro.kitten465@gmail.com"
+    }
+}
