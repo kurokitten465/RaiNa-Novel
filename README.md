@@ -102,7 +102,7 @@ Nothing here is final. Everything is subject to change.
 
 The cinematic feel this framework chases was inspired by **"Stella Sora"** that make characters feel alive on screen — not sprites swapping states on cue, but scenes with weight, timing, and presence.
 
-The production-scale validation of this architecture approach comes from the **"Uguiss"** internal toolset used by QualiArts on *Gakuen iDOLM@STER*, presented at CEDEC 2025 — a real-world example of a command-driven, timeline-based, PlayableGraph-powered scene system shipped at scale.
+The production-scale validation of this architecture approach comes from the internal toolset used on *Gakuen iDOLM@STER*, presented at CEDEC 2025 — a real-world example of a command-driven, timeline-based, PlayableGraph-powered scene system shipped at scale.
 
 ---
 
